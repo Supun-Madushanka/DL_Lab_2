@@ -1,0 +1,3 @@
+1)With more hidden nodes, the modal has more capacity to learn complex decision boundaries. Accuracy improves at first
+
+2)Small hidden layers underfit. Larger hidden layers fit better, but too many nodes can cause overfitting or unstable training. Accuracy improves up to a point, them may plateau or drop.
